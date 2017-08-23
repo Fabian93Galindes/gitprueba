@@ -1,6 +1,9 @@
 public class usuario{
 	string nombre;
 	String imail;
+	String genero;
+	data fecha de nacimiento ;
+
 
 
 }
