@@ -1,6 +1,8 @@
 public class usuario{
 	string nombre;
 	String imail;
+	float estatura;
+	date fechaNacimiento;
 
 
 }
