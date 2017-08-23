@@ -3,6 +3,7 @@ public class usuario{
 	String imail;
 	float estatura;
 	date fechaNacimiento;
-
+	String genero;
+	data fecha de nacimiento ;
 
 }
